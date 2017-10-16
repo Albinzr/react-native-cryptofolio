@@ -1,0 +1,20 @@
+{
+  "data": {
+    "id": "7cf6dbd2-b6f7-5424-a39d-2b21c22e4dd9",
+    "name": "omdv",
+    "username": null,
+    "profile_location": null,
+    "profile_bio": null,
+    "profile_url": null,
+    "avatar_url": "https://images.coinbase.com/avatar?h=y8G7VbIlGtxmHcgeWMWw4eOqu3XKb9MQCpt3jAtqTs7hcOdbVyIZ1zDi%2FZK2%0AkqLi&s=128",
+    "resource": "user",
+    "resource_path": "/v2/users/7cf6dbd2-b6f7-5424-a39d-2b21c22e4dd9"
+  },
+  "warnings": [
+    {
+      "id": "missing_version",
+      "message": "Please supply API version (YYYY-MM-DD) as CB-VERSION header",
+      "url": "https://developers.coinbase.com/api#versioning"
+    }
+  ]
+}
