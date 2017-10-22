@@ -1,0 +1,19 @@
+{
+  "positions": [],
+  "portfolio": {
+      "gain": 0,
+      "value": 0,
+      "return": 0
+  },
+  "summaries": [{
+      "coin":"None",
+      "gain":0,
+      "cost":0,
+      "value":0 ,
+      "amount":0,
+      "return":0
+  }],
+  "sparkline": {
+    "data": [0,0,0]
+  }
+}
