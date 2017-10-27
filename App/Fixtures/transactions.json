@@ -145,6 +145,35 @@
   ],
   [
     {
+      "id": "a277d3fb-00f1-54f9-aa92-c8ba9156f44f",
+      "type": "sell",
+      "status": "completed",
+      "amount": {
+        "amount": -1,
+        "currency": "LTC"
+      },
+      "native_amount": {
+        "amount": -52.56,
+        "currency": "USD"
+      },
+      "description": null,
+      "created_at": "2017-10-26T23:16:45Z",
+      "updated_at": "2017-10-26T23:16:45Z",
+      "resource": "transaction",
+      "resource_path": "/v2/accounts/0d8f8bf4-6eb1-53e3-9a31-8da1829ef552/transactions/a277d3fb-00f1-54f9-aa92-c8ba9156f44f",
+      "instant_exchange": false,
+      "sell": {
+        "id": "0466b79b-351e-556d-b1a6-c986d15f7de4",
+        "resource": "sell",
+        "resource_path": "/v2/accounts/0d8f8bf4-6eb1-53e3-9a31-8da1829ef552/buys/0466b79b-351e-556d-b1a6-c986d15f7de4"
+      },
+      "details": {
+        "title": "Bought litecoin",
+        "subtitle": "using MasterCard ********6666",
+        "payment_method_name": "MasterCard ********6666"
+      }
+    },
+    {
       "id": "9c19538c-d762-5ecb-927d-00154e680ae4",
       "type": "send",
       "status": "completed",
