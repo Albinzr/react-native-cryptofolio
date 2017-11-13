@@ -6,7 +6,9 @@
       "return": 0,
       "cost_basis": 0,
       "open_gain": 0,
-      "closed_gain": 0
+      "closed_gain": 0,
+      "gain_period": 0,
+      "return_period": 0
   },
   "summaries": [{
       "coin":"None",
@@ -14,7 +16,9 @@
       "cost":0,
       "current_value":0 ,
       "amount":0,
-      "return":0
+      "return":0,
+      "gain_period": 0,
+      "return_period": 0
   }],
   "sparkline": {
     "data": [0,0,0]
