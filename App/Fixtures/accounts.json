@@ -1,4 +1,4 @@
-[
+{"data": [
   {
     "id": "caae6ec2-1bf9-5653-9edf-bb6694b11d2f",
     "name": "USD Wallet",
@@ -119,4 +119,4 @@
       "currency": "USD"
     }
   }
-]
+]}
